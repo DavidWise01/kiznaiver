@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Experiment",
+  "universe": "KIZ · The Experiment (entertainment)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Experiment:KIZ:d912da⟧",
+  "carbon": "the-experiment.carbon.tiff (TIFF)",
+  "silicon": "the-experiment.silicon.png (PNG)",
+  "seal_sha256": "9d99a44be2c56cce6e4421b142063a827d493239225994308b5c44b8119a90a0",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

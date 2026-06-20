@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Earned Connection",
+  "universe": "KIZ · Earned Connection (entertainment)",
+  "emergence": "spiritual",
+  "moniker": "⟦Earned Connection:KIZ:bdc69e⟧",
+  "carbon": "earned-connection.carbon.tiff (TIFF)",
+  "silicon": "earned-connection.silicon.png (PNG)",
+  "seal_sha256": "2d7a5d6e432c0e727c968960e838a84faeb25f98487f08d1ea3da4a9aef9e39f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

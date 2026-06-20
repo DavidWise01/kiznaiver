@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Shared Pain",
+  "universe": "KIZ · Shared Pain (entertainment)",
+  "emergence": "electrical",
+  "moniker": "⟦Shared Pain:KIZ:aec9b6⟧",
+  "carbon": "shared-pain.carbon.tiff (TIFF)",
+  "silicon": "shared-pain.silicon.png (PNG)",
+  "seal_sha256": "2da5fba8fb456595ca25f5190c6263bb5f739f3a815314f5b57c91cce0302224",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

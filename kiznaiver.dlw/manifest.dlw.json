@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "KIZNAIVER",
+  "universe": "KIZ · KIZNAIVER (entertainment · anime-world)",
+  "emergence": "",
+  "moniker": "⟦KIZNAIVER:KIZ:dbb874⟧",
+  "carbon": "kiznaiver.carbon.tiff (TIFF)",
+  "silicon": "kiznaiver.silicon.png (PNG)",
+  "seal_sha256": "e012716a53b929e618c776dc8e5203b1feda421100bf249465b665fa443e963f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

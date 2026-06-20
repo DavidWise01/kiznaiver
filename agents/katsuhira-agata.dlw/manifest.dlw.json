@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Katsuhira Agata",
+  "universe": "KIZ · Katsuhira Agata (entertainment)",
+  "emergence": "natural",
+  "moniker": "⟦Katsuhira Agata:KIZ:266dc6⟧",
+  "carbon": "katsuhira-agata.carbon.tiff (TIFF)",
+  "silicon": "katsuhira-agata.silicon.png (PNG)",
+  "seal_sha256": "7ecb771b994b5e390a0587aa10c367897b82d3848136506d5a033d2137ae7f09",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

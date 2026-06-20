@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Buried Trauma",
+  "universe": "KIZ · The Buried Trauma (entertainment)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Buried Trauma:KIZ:473e57⟧",
+  "carbon": "the-buried-trauma.carbon.tiff (TIFF)",
+  "silicon": "the-buried-trauma.silicon.png (PNG)",
+  "seal_sha256": "c50accb85b07d51630415363dff4873eb952d4f2bb2f79bec03ea4ced0a9c42e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

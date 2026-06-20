@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Kiznaivers",
+  "universe": "KIZ · The Kiznaivers (entertainment)",
+  "emergence": "natural",
+  "moniker": "⟦The Kiznaivers:KIZ:957039⟧",
+  "carbon": "the-seven.carbon.tiff (TIFF)",
+  "silicon": "the-seven.silicon.png (PNG)",
+  "seal_sha256": "9bf882a548e85dff21673537aba25af2c23443d04c435ef92a1cadbe78e0c53f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
